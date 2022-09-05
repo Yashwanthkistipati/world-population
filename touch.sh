@@ -5,5 +5,5 @@ git add . --force
 git commit -m "yeshwanth1stupload"
 
 
-git push -f origin main
+git push -f origin master
 
